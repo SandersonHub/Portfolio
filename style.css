@@ -2,7 +2,7 @@
     font-family: "Open Sans", sans-serif;
     margin: 0;
     padding: 0;
-/*     box-sizing: border-box; */
+    
 }
 
 html {
@@ -54,7 +54,6 @@ li {
 .email {
     color:black;
 }
-/* Everything good up here! */
 
   h2 {
     font-size: 200%;
@@ -67,6 +66,7 @@ li {
   .sidebar {
     padding: 20px;
   }
+
 p {
     text-align: center;
     display: flex;
@@ -93,8 +93,6 @@ p {
     border-radius: 8px;
   }
 
-  
-
 .about {
   padding: 30px;
 }
@@ -108,13 +106,11 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
 
 h3 {
   padding: 50px;
   display: flex;
-
 }
 
 span {
@@ -128,7 +124,6 @@ span {
   display: flex;
   align-items: center;
   justify-content: center;
-
   }
 @media screen and (max-width: 600px) {
     span {
