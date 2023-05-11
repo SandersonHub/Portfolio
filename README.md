@@ -21,5 +21,8 @@ Orginally coded by Bradley Sanderson
 ## Acknowledgments
 Anyone who helped or provided me through this process up to this point!
 
+## Direct Link
+https://sandersonhub.github.io/Portfolio/
+
 ## Feature Photos
 ![chrome_DwDR1G8WTd](https://github.com/SandersonHub/Portfolio/assets/128574459/3f5fde9a-c09f-4b6d-a67e-1f0ee2ad59e6)
